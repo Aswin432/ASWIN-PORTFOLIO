@@ -94,7 +94,7 @@ export const workData = [
   {
     title: "Quick-Cart",
     description: "MERN-STACK",
-    bgImage: "/3.png",
+    bgImage: "/4.png",
     link: "https://quick-cart-three-opal.vercel.app/",
   },
 ];
