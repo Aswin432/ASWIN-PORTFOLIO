@@ -91,6 +91,12 @@ export const workData = [
     bgImage: "/3.png",
     link: "https://edemy-aswin.vercel.app/",
   },
+  {
+    title: "Quick-Cart",
+    description: "MERN-STACK",
+    bgImage: "/3.png",
+    link: "https://quick-cart-three-opal.vercel.app/",
+  },
 ];
 
 export const serviceData = [
